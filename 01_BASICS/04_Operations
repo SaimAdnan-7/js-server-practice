@@ -1,0 +1,32 @@
+// let str1 = "Saim "
+// let str2 = "Adnan"
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log(true);
+// console.log(+true);
+
+// let num1, num2, num3, num4
+// num1 = num2 = num3 = num4 = 2 + 2
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
+// console.log(num4);
+
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
+
+// let x = 10
+// const y = ++x
+// console.log(x);
+// console.log(y);
+// console.log(x, y);
+
+
+// let x = 10
+// const y = x++
+// console.log(x);
+// console.log(y);
+// console.log(x + " " + y);
